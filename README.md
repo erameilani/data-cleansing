@@ -1,0 +1,2 @@
+# data-cleansing
+Data cleansing adalah proses menyiapkan data untuk dilakukan analisis dengan cara menghapus atau memodifikasi data salah, tidak relevan, duplikat, dan tidak terformat. Project ini bertujuan untuk melakukan data prepocessing (data cleansing) pada dataset Telco. Langkah-langkah yang dikerjakan adalah mencari ID pelanggan yang valid, mengatasi missing values, mengatasi outlier, dan standarisasi nilai dari variable. Project ini adalah implementasi dari modul DQLab.
